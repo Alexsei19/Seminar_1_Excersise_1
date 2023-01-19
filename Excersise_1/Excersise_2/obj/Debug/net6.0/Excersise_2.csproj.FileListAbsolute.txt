@@ -1,0 +1,15 @@
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\bin\Debug\net6.0\Excersise_2.exe
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\bin\Debug\net6.0\Excersise_2.deps.json
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\bin\Debug\net6.0\Excersise_2.runtimeconfig.json
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\bin\Debug\net6.0\Excersise_2.dll
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\bin\Debug\net6.0\Excersise_2.pdb
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\obj\Debug\net6.0\Excersise_2.csproj.AssemblyReference.cache
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\obj\Debug\net6.0\Excersise_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\obj\Debug\net6.0\Excersise_2.AssemblyInfoInputs.cache
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\obj\Debug\net6.0\Excersise_2.AssemblyInfo.cs
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\obj\Debug\net6.0\Excersise_2.csproj.CoreCompileInputs.cache
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\obj\Debug\net6.0\Excersise_2.dll
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\obj\Debug\net6.0\refint\Excersise_2.dll
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\obj\Debug\net6.0\Excersise_2.pdb
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\obj\Debug\net6.0\Excersise_2.genruntimeconfig.cache
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Homework\Excersise_1\Excersise_2\obj\Debug\net6.0\ref\Excersise_2.dll
