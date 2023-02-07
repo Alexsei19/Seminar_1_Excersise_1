@@ -14,8 +14,7 @@ void FillArray(int [] collection)
     for (int index = 0; index < collection.Length; index++)
     {
         collection[index]= new Random().Next(100,1000);
-        ;
-    }
+            }
 }
 
 void PrintArray(int [] collection)
